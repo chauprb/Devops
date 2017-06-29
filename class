@@ -1,0 +1,5 @@
+URL:
+http://www-us.apache.org/dist/maven/maven-3/3.5.0/binaries/apache-maven-3.5.0-bin.zip
+M2_HOME:C:\Program Files\Apache Software Foundation
+path:C:\Program Files\Apache Software Foundation\bin
+cmd->maven -version
